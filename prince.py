@@ -1,1 +1,1 @@
-import prince
+print(' COMMAND OFF DURING BOARD EXAMS ')
