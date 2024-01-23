@@ -1,5 +1,6 @@
 import random
 import os
+os.system('git pull')
 P = '\x1b[1;97m' # PUTIH
 M = '\x1b[1;91m' # MERAH:RED
 H = '\x1b[1;92m' # HIJAU:GREEN
